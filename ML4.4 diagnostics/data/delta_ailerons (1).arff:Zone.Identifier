@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.openml.org/search?type=data&sort=runs&id=803&status=active
+HostUrl=https://www.openml.org/data/download/53337/delta_ailerons.arff
